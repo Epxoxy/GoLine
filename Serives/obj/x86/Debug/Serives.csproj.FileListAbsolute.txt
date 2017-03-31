@@ -1,0 +1,5 @@
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\x86\Debug\Serives.dll.config
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\x86\Debug\Serives.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\x86\Debug\Serives.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\x86\Debug\Serives.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\x86\Debug\Serives.pdb

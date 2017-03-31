@@ -1,0 +1,50 @@
+C:\Users\px3\Desktop\ComputeReview\Serives\obj\Debug\GameServices.csprojResolveAssemblyReference.cache
+C:\Users\px3\Desktop\ComputeReview\Serives\obj\Debug\GameServices.dll
+C:\Users\px3\Desktop\ComputeReview\Serives\obj\Debug\GameServices.pdb
+C:\Users\px3\Desktop\ComputeReview\Serives\bin\Debug\GameServices.dll.config
+C:\Users\px3\Desktop\ComputeReview\Serives\bin\Debug\GameServices.dll
+C:\Users\px3\Desktop\ComputeReview\Serives\bin\Debug\GameServices.pdb
+C:\Users\px3\Desktop\ComputeReview\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\px3\Desktop\ComputeReview\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\px3\Desktop\ComputeReview\Serives\obj\Debug\GameServices.Properties.Resources.resources
+C:\Users\px3\Desktop\ComputeReview\Serives\obj\Debug\GameServices.csproj.GenerateResource.Cache
+C:\Users\xiaox\Desktop\ComputeReview\Serives\bin\Debug\GameServices.dll.config
+C:\Users\xiaox\Desktop\ComputeReview\Serives\bin\Debug\GameServices.dll
+C:\Users\xiaox\Desktop\ComputeReview\Serives\bin\Debug\GameServices.pdb
+C:\Users\xiaox\Desktop\ComputeReview\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\xiaox\Desktop\ComputeReview\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\xiaox\Desktop\ComputeReview\Serives\obj\Debug\GameServices.csprojResolveAssemblyReference.cache
+C:\Users\xiaox\Desktop\ComputeReview\Serives\obj\Debug\GameServices.Properties.Resources.resources
+C:\Users\xiaox\Desktop\ComputeReview\Serives\obj\Debug\GameServices.csproj.GenerateResource.Cache
+C:\Users\xiaox\Desktop\ComputeReview\Serives\obj\Debug\GameServices.dll
+C:\Users\xiaox\Desktop\ComputeReview\Serives\obj\Debug\GameServices.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\GameServices.dll.config
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\GameServices.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\GameServices.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\GameServices.Properties.Resources.resources
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\GameServices.csproj.GenerateResource.Cache
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\GameServices.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\GameServices.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\GameServices.csprojResolveAssemblyReference.cache
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\bin\Debug\GameServices.dll.config
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\bin\Debug\GameServices.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\bin\Debug\GameServices.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\obj\Debug\GameServices.csprojResolveAssemblyReference.cache
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\obj\Debug\GameServices.Properties.Resources.resources
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\obj\Debug\GameServices.csproj.GenerateResource.Cache
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\obj\Debug\GameServices.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\GoLine\Serives\obj\Debug\GameServices.pdb
+C:\Users\xiaox\Desktop\GoLine\Serives\bin\Debug\GameServices.dll.config
+C:\Users\xiaox\Desktop\GoLine\Serives\bin\Debug\GameServices.dll
+C:\Users\xiaox\Desktop\GoLine\Serives\bin\Debug\GameServices.pdb
+C:\Users\xiaox\Desktop\GoLine\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\xiaox\Desktop\GoLine\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\xiaox\Desktop\GoLine\Serives\obj\Debug\GameServices.csprojResolveAssemblyReference.cache
+C:\Users\xiaox\Desktop\GoLine\Serives\obj\Debug\GameServices.Properties.Resources.resources
+C:\Users\xiaox\Desktop\GoLine\Serives\obj\Debug\GameServices.csproj.GenerateResource.Cache
+C:\Users\xiaox\Desktop\GoLine\Serives\obj\Debug\GameServices.dll
+C:\Users\xiaox\Desktop\GoLine\Serives\obj\Debug\GameServices.pdb

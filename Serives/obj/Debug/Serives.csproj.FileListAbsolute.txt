@@ -1,0 +1,8 @@
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\Serives.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\Serives.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\Serives.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\Serives.pdb
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\Serives.dll.config
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\System.Data.SQLite.dll
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\bin\Debug\System.Data.SQLite.xml
+C:\Users\xiaox\Documents\Visual Studio 2015\Projects\ComputeReview\Serives\obj\Debug\Serives.csprojResolveAssemblyReference.cache
